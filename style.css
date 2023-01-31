@@ -230,7 +230,7 @@ p{
  * height: 102
  * height: 60
  *****************************/
-@media screen and (max-width:480px){
+@media screen and (max-width:/*480*/500px){
     .txtAreaEntrada{
         height: 466px;/*2px*/
     }
@@ -292,7 +292,7 @@ p{
  * height: 76
  * height: 60
  *****************************/
- @media screen and (min-width:481px) and (max-width:958px){
+ @media screen and (min-width:/*481*/501px) and (max-width:958px){
     .txtAreaEntrada{
         height: 376px;/*2px*/
     }
